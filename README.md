@@ -5,7 +5,7 @@
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
 
 
-
+#### For communications:  
 [<img align="left" alt="MederD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mederd
