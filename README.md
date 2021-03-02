@@ -1,7 +1,8 @@
 ### Hi there, I'm Mederbek 👋
 #### Here are some of my projects:  
-* [AWS Cloudformation playground](https://github.com/MederD/AWS_playground/tree/main/cloudformation)  
-* [AWS Lambda playground](https://github.com/MederD/AWS_playground/tree/main/awsLambda)   
+* [AWS lab](https://github.com/MederD/AWS_playground)   
+  * [AWS Cloudformation playground](https://github.com/MederD/AWS_playground/tree/main/cloudformation)  
+  * [AWS Lambda playground](https://github.com/MederD/AWS_playground/tree/main/awsLambda)   
 * [Ansible playground](https://github.com/MederD/ansible_certification_prep)  
   * [Anible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
