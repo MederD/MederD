@@ -4,7 +4,7 @@
   * [AWS Cloudformation lab](https://github.com/MederD/AWS_playground/tree/main/cloudformation)  
   * [AWS Lambda lab](https://github.com/MederD/AWS_playground/tree/main/awsLambda)   
 * [Ansible Projects](https://github.com/MederD/ansible_certification_prep)  
-  * [Anible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
+  * [Ansible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
 
 
