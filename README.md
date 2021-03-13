@@ -6,6 +6,7 @@
 * [Ansible Projects](https://github.com/MederD/ansible_certification_prep)  
   * [Ansible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
+* [Terraform](https://github.com/MederD/terraform_sprintqa)
 
 
 #### For communications:  
