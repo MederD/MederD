@@ -7,6 +7,7 @@
   * [Ansible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
 * [Terraform](https://github.com/MederD/terraform_sprintqa)
+  * [Terraform - AWS VPC Module](https://github.com/MederD/aws_vpc_module) 
 
 
 #### For communications:  
