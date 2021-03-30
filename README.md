@@ -3,6 +3,7 @@
 * [AWS Projects](https://github.com/MederD/AWS_playground)   
   * [AWS Cloudformation lab](https://github.com/MederD/AWS_playground/tree/main/cloudformation)  
   * [AWS Lambda lab](https://github.com/MederD/AWS_playground/tree/main/awsLambda)   
+   * [List old access-keys and cahnge status](https://github.com/MederD/AWS_playground/blob/main/awsLambda/change_status_key.py)   
 * [Ansible Projects](https://github.com/MederD/ansible_certification_prep)  
   * [Ansible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
