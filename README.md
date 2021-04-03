@@ -4,6 +4,7 @@
   * [AWS Cloudformation lab](https://github.com/MederD/AWS_playground/tree/main/cloudformation)  
   * [AWS Lambda lab](https://github.com/MederD/AWS_playground/tree/main/awsLambda)   
     * [List old access-keys and change status](https://github.com/MederD/AWS_playground/blob/main/awsLambda/change_status_key.py)   
+    * [Swap environment cnames in ElasticBeanstalk deployment](https://github.com/MederD/AWS_playground/blob/main/awsLambda/swap_eb_url.py)  
 * [Ansible Projects](https://github.com/MederD/ansible_certification_prep)  
   * [Ansible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
