@@ -1,5 +1,5 @@
 ### Hi there, I'm Mederbek 👋
-#### Here are some of my projects:  
+#### These are some of my projects:  
 * [AWS Projects](https://github.com/MederD/AWS_playground)   
   * [AWS Cloudformation lab](https://github.com/MederD/AWS_playground/tree/main/cloudformation)  
   * [AWS Lambda lab](https://github.com/MederD/AWS_playground/tree/main/awsLambda)   
@@ -9,7 +9,8 @@
   * [Ansible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
 * [Terraform](https://github.com/MederD/terraform_sprintqa)
-  * [Terraform - AWS VPC Module](https://github.com/MederD/aws_vpc_module) 
+  * [Terraform - AWS VPC Module](https://github.com/MederD/aws_vpc_module)   
+  * [Terraform - AWS ElasticBeanstalk with RDS and Route53](https://github.com/MederD/terraform_sprintqa/tree/main/labs/elastic-beanstalk/EB)  
 
 
 #### For communications:  
