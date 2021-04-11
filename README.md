@@ -8,6 +8,7 @@
 * [Ansible Projects](https://github.com/MederD/ansible_certification_prep)  
   * [Ansible Lab](https://github.com/MederD/ansible_certification_prep/tree/main/ansible_lab)
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
+  * [Deploy Voting App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Voting_App_on_Kubernetes.md)  
 * [Terraform](https://github.com/MederD/terraform_sprintqa)
   * [Terraform - AWS VPC Module](https://github.com/MederD/aws_vpc_module)   
   * [Terraform - AWS ElasticBeanstalk with RDS and Route53](https://github.com/MederD/terraform_sprintqa/tree/main/labs/elastic-beanstalk/EB)  
