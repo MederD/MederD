@@ -11,7 +11,9 @@
   * [Deploy Voting App on Kubernetes](https://github.com/MederD/Kodekloud-Engineer-Tasks/blob/main/Tasks/Deploy_Voting_App_on_Kubernetes.md)  
 * [Terraform](https://github.com/MederD/terraform_sprintqa)
   * [Terraform - AWS VPC Module](https://github.com/MederD/aws_vpc_module)   
-  * [Terraform - AWS ElasticBeanstalk with RDS and Route53](https://github.com/MederD/terraform_sprintqa/tree/main/labs/elastic-beanstalk/EB)  
+  * [Terraform - AWS ElasticBeanstalk with RDS and Route53](https://github.com/MederD/terraform_sprintqa/tree/main/labs/elastic-beanstalk/EB)    
+* [Kubernetes](https://github.com/MederD/kubernetes)  
+  * [List and delete pvc older than retention date](https://github.com/MederD/kubernetes/blob/master/list_and_delete_pvc.py)   
 
 
 #### For communications:  
