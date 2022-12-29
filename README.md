@@ -1,9 +1,6 @@
 ### Hi there, I'm Meder 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=mederd)
 
-![Meder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MederD&show_icons=true)
-
-
 #### These are some of my projects:  
 * [AWS Projects](https://github.com/MederD/AWS_playground)   
   * [AWS Cloudformation lab](https://github.com/MederD/AWS_playground/tree/main/cloudformation)  
