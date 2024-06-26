@@ -8,7 +8,6 @@
   * [AWS CDK Templates](https://github.com/MederD/aws_cdk_templates)  
 * [Ansible Projects](https://github.com/MederD/ansible_certification_prep)  
 * [Kodekloud Solutions](https://github.com/MederD/Kodekloud-Engineer-Tasks)  
-* [Terraform](https://github.com/MederD/terraform_lab)   
 * [Kubernetes](https://github.com/MederD/kubernetes)  
 * [Python](https://github.com/MederD/python_lab)  
  
