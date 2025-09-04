@@ -1,4 +1,4 @@
-### Hi there, I'm Meder 👋
+### Hi there, I'm Mederbek Dzhumabaev 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=mederd)
 
 #### These are some of my projects:  
